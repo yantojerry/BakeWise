@@ -6,7 +6,7 @@ set "PYTHON="
 set "PY_ARGS="
 set "INSTALL_PYTHON="
 set "INSTALL_ARGS="
-set "TEST_TARGET=tests"
+set "TEST_TARGET=tests\test_integration_bakewise.py"
 
 pushd "%ROOT%"
 
