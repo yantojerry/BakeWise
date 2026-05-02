@@ -1,0 +1,16 @@
+[
+    {
+        "batch_id": 1,
+        "product_id": 1,
+        "quantity": 5,
+        "production_date": "2026-04-06",
+        "expiry_date": "2026-04-08"
+    },
+    {
+        "batch_id": 2,
+        "product_id": 1,
+        "quantity": 10,
+        "production_date": "2026-04-08",
+        "expiry_date": "2026-04-10"
+    }
+]
